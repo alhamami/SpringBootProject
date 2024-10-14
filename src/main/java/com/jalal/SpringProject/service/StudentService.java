@@ -1,4 +1,4 @@
-package com.example.springProject.service;
+package com.jalal.SpringProject.service;
 
 import com.example.springProject.repo.StudentRepo;
 

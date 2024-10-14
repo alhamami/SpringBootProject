@@ -1,4 +1,4 @@
-package com.example.springProject.model;
+package com.jalal.SpringProject.model;
 
 import org.springframework.stereotype.Component;
 import org.springframework.context.annotation.Scope;

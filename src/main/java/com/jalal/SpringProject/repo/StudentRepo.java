@@ -1,4 +1,4 @@
-package com.example.springProject.repo;
+package com.jalal.SpringProject.repo;
 
 import org.springframework.stereotype.Repository;
 
